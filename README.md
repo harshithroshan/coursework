@@ -37,4 +37,4 @@ and observations for each.
 
 The DAST-10 work followed a research internship in Professor Naseer's lab on
 scale adaptation for drug abuse screening. See the
-[website](https://harshithroshankrishnakumarug2023-ops.github.io/harshithroshan.github.io/writing/).
+[website](https://harshithroshan.github.io/writing/).
